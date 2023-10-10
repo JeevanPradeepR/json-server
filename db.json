@@ -1,0 +1,10 @@
+{
+  "chats": [
+    {
+      "message": "hai",
+      "id": 1,
+      "name": "personA",
+      "group": 32
+    }
+  ]
+}
